@@ -2,8 +2,6 @@
 
 ## [Adidas US Sales Analysis using Excel](https://github.com/VidhyabharathirajC/Excel-Project)
 
-In this comprehensive project, I harnessed the power of Excel, a widely-used data analysis tool, to dissect and interpret Adidas US Sales data for 2020. The project is structured into four distinct worksheets within a single workbook:
-
 ### Worksheet 1:
 Presents the original sales data, serving as the foundational dataset for the analysis.  
 ![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/Excel%20Project%20Image/Screenshot%202024-04-09%20015411.jpg)
